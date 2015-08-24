@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		96671A0C1B8AB0EF000C4287 /* UIImage-.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage-.h"; sourceTree = "<group>"; };
+		96671A0D1B8AB0EF000C4287 /* UIImage-.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage-.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		96671A041B8AB083000C4287 = {
+			isa = PBXGroup;
+			children = (
+				96671A0B1B8AB0C0000C4287 /* cocoa- */,
+			);
+			sourceTree = "<group>";
+		};
+		96671A0B1B8AB0C0000C4287 /* cocoa- */ = {
+			isa = PBXGroup;
+			children = (
+				96671A0C1B8AB0EF000C4287 /* UIImage-.h */,
+				96671A0D1B8AB0EF000C4287 /* UIImage-.m */,
+			);
+			path = "cocoa-";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		96671A051B8AB083000C4287 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 96671A081B8AB083000C4287 /* Build configuration list for PBXProject "cocoa-" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 96671A041B8AB083000C4287;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		96671A091B8AB083000C4287 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		96671A0A1B8AB083000C4287 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		96671A081B8AB083000C4287 /* Build configuration list for PBXProject "cocoa-" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96671A091B8AB083000C4287 /* Debug */,
+				96671A0A1B8AB083000C4287 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96671A051B8AB083000C4287 /* Project object */;
+}
